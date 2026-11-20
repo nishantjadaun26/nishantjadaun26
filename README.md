@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0284c7&height=210&section=header&text=Nishant%20Jadon&fontSize=48&fontColor=ffffff&desc=Building%20AI%20systems%20that%20actually%20ship.&descAlignY=66&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0284c7&height=210&section=header&text=Nishant%20Jadaun&fontSize=48&fontColor=ffffff&desc=Building%20AI%20systems%20that%20actually%20ship.&descAlignY=66&descSize=17)
 
 # Hey, I'm Nishant
 
@@ -27,12 +27,24 @@ CS student at **IIIT Lucknow** focused on **AI Engineering**, backend systems, a
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,cpp,java,ts,bash)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://dev.java/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 **AI / ML & Data**
 
-[![AI/ML](https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,postgres,docker)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
+[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 **Web & Tools**
 
-[![Web & Tools](https://skillicons.dev/icons?i=react,tailwind,spring,git,linux,vscode)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https
