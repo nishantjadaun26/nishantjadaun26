@@ -30,7 +30,6 @@ CS student at **IIIT Lucknow** focused on **AI Engineering**, backend systems, a
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="56" alt="Python" /></a>&nbsp;&nbsp;
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="56" alt="C++" /></a>&nbsp;&nbsp;
   <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="56" alt="Java" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="56" alt="TypeScript" /></a>&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="56" alt="Bash" /></a>
 </p>
 
@@ -48,6 +47,10 @@ CS student at **IIIT Lucknow** focused on **AI Engineering**, backend systems, a
 
 **Web Development**
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="56" alt="HTML" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="56" alt="CSS" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="56" alt="TypeScript" /></a>&nbsp;&nbsp;
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="56" alt="React" /></a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="56" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="56" alt="Spring Boot" /></a>&nbsp;&nbsp;
