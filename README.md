@@ -26,25 +26,41 @@ CS student at **IIIT Lucknow** focused on **AI Engineering**, backend systems, a
 ### ⚙️ Tech Stack
 
 **Languages**
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="56" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="56" alt="C++" /></a>&nbsp;&nbsp;
+  <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="56" alt="Java" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="56" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="56" alt="Bash" /></a>
+</p>
 
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![Java](https://skillicons.dev/icons?i=java)](https://dev.java/)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+<br>
 
-**AI / ML & Data**
+**AI & ML**
+<p align="left">
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="56" alt="PyTorch" /></a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="56" alt="scikit-learn" /></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="56" alt="FastAPI" /></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="56" alt="Kaggle" /></a>
+</p>
 
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
-[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+<br>
 
-**Web & Tools**
+**Web Development**
+<p align="left">
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="56" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="56" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="56" alt="Spring Boot" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="56" alt="PostgreSQL" /></a>
+</p>
 
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https
+<br>
+
+**Tools & Platforms**
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="56" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="56" alt="Linux" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="56" alt="VS Code" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="56" alt="Docker" /></a>
+</p>
