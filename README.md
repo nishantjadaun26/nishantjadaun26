@@ -35,35 +35,10 @@ CS student at **IIIT Lucknow** focused on **AI Engineering**, backend systems, a
 
 <br>
 
-**AI & ML**
+**AI, ML & Data**
 <p align="left">
   <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="56" alt="PyTorch" /></a>&nbsp;&nbsp;
   <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="56" alt="scikit-learn" /></a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="56" alt="FastAPI" /></a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="56" alt="Kaggle" /></a>
-</p>
-
-<br>
-
-**Web Development**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="56" alt="HTML" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="56" alt="CSS" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="56" alt="TypeScript" /></a>&nbsp;&nbsp;
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="56" alt="React" /></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="56" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="56" alt="Spring Boot" /></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="56" alt="PostgreSQL" /></a>
-</p>
-
-<br>
-
-**Tools & Platforms**
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="56" alt="Git" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="56" alt="Linux" /></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="56" alt="VS Code" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="56" alt="Docker" /></a>
-</p>
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="56" alt="Pandas" /></a>&nbsp;&nbsp;
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="56" alt="NumPy" /></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/"><img src="
