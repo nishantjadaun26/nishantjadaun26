@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0284c7&height=210&section=header&text=Nishant%20Jadon&fontSize=48&fontColor=ffffff&desc=Code,%20models,%20and%20things%20that%20actually%20ship.&descAlignY=66&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0284c7&height=210&section=header&text=Nishant%20Jadaun&fontSize=48&fontColor=ffffff&desc=Code,%20models,%20and%20things%20that%20actually%20ship.&descAlignY=66&descSize=17)
 
 # Hey, I'm Nishant
 
